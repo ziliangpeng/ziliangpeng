@@ -1,3 +1,3 @@
 ## 🚀 supercomputing...
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fziliangpeng)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ziliangpeng.ziliangpeng)
